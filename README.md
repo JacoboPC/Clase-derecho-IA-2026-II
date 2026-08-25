@@ -2,9 +2,9 @@
 
 **Pontificia Universidad Javeriana · 2026-II · Docente: Pedro Ardila**
 
-> **Estudiante:** [escribe aquí tu nombre completo]
-> **Nombre del proyecto:** [escribe aquí el nombre de tu herramienta]
-> **Fecha de inicio:** [AAAA-MM-DD]
+> **Estudiante:** Jacobo Pulido Carrero 
+> **Nombre del proyecto:** Automatización de Estudios de Títulos 
+> **Fecha de inicio:** 28/07/2026
 
 ---
 
@@ -18,29 +18,33 @@ Bienvenido/a a tu repositorio de proyecto. **Este archivo es tu tablero de mando
 
 ## 📋 Parte 1 — Descripción del proyecto
 
-> Completa cada sección con 3–10 frases. Sé concreto/a: esta descripción es la que tu IA usará como contexto y la que el docente usará para realimentarte.
+> Completa cada sección con 3–10 frases. Sé concreto/a: esta descripción es la que tu IA usará como contexto y la que el docente usará para realimentarte. 
 
 ### 1.1 El problema jurídico
-¿Qué problema **real del derecho colombiano** resuelve tu herramienta? ¿Quién lo sufre hoy y cómo lo resuelve sin tu herramienta?
-
+¿Qué problema **real del derecho colombiano** resuelve tu herramienta? ¿Quién lo sufre hoy y cómo lo resuelve sin tu herramienta? El problema principal es de tiempo y de acceso, un estudio de títulos es un procedimiento que a un abogado promedio le puede tardar un par de horas y las personas naturales o jurídicas están obligadas a contratar un abogado para obtener un estudio de títulos, mi proyecto busca minimizar esa cantidad de tiempo requerida para hacer el estudio mediante la automatización y bajar el costo considerablemente para el cliente. ¿Qué puede hacer legítimamente una IA dentro de una actividad tradicionalmente realizada por un abogado y cuáles son los límites jurídicos de esa automatización?
 ### 1.2 Usuarios
-¿Quién va a usarla? Describe a tu usuario ideal en una frase (ej. *"un arrendatario bogotano que le subieron el canon de arrendamiento más del límite legal"*). Recuerda que al final necesitas **al menos un usuario real** que la pruebe.
+¿Quién va a usarla? Describe a tu usuario ideal en una frase (ej. *"un arrendatario bogotano que le subieron el canon de arrendamiento más del límite legal"*). Recuerda que al final necesitas **al menos un usuario real** que la pruebe. Todas las personas que quieran comprar un bien inmueble necesitan de un estudio de títulos, así que, cualquier persona en esa situación específica utilizaría mi herramienta. Para encontrar un nicho concreto pensaría en constructoras, inmobiliarias, desarrolladoras, personas que van a comprar un inmueble, personas que van a vender un inmueble, inversionistas, firmas de abogados, abogados independientes, bancos que hagan análisis inmobiliarios, empresas dedicadas al due diligence inmobiliario, de igual forma, la herramienta busca diseñarse para cualquier persona que la necesite. 
 
 ### 1.3 Qué hace y qué NO hace (alcance)
 | ✅ Sí hace | ❌ No hace |
 | --- | --- |
-| [funcionalidad 1] | [fuera de alcance 1] |
-| [funcionalidad 2] | [fuera de alcance 2] |
+| [Automatiza estudios de títulos creando el documento] | [No infringe el Habeas data, los documentos deben subirse] |
+| [Verifica el resultado de forma preliminar] | [No remplaza al abogado en la verificación de entrega] |
 
 *Consejo de abogado: un alcance pequeño y perfecto vale más que uno grande y roto.*
 
 ### 1.4 Marco jurídico y fuentes
 ¿Qué normas alimentan tu herramienta? Lista tu corpus normativo (leyes, decretos, sentencias — debe ser **pequeño y público**):
-- [ ] Norma/sentencia 1: [nombre + enlace]
-- [ ] Norma/sentencia 2: [nombre + enlace]
-
-### 1.5 Nombre y lema
-Un nombre corto para tu herramienta y una frase que explique qué hace (la usarás en la demo del día de presentaciones).
+- Ley 1579/2012 / (http://www.secretariasenado.gov.co/senado/basedoc/ley_1579_2012.html)
+- Decreto 960/1970 / (http://www.secretariasenado.gov.co/senado/basedoc/decreto_0960_1970.html)
+- Ley 675/2001 / (http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001.html)
+- Ley 1581/2012 / (http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.htm)
+- CONPES 4144/2025 / (https://www.dnp.gov.co/publicaciones/Planeacion/Paginas/conpes-4144-hoja-de-ruta-colombia-inteligencia-artificial-retos-actuales-transformacion-futura.aspx)
+- Código Civil / (http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html)
+  La idea es que la herramienta funcione con módulos, dividiendo entre cada etapa. 
+  
+   ### 1.5 Nombre y lema
+Un nombre corto para tu herramienta y una frase que explique qué hace (la usarás en la demo del día de presentaciones). Estudios de títulos automatizados, más rápido, más seguro y más barato. 
 
 ---
 
