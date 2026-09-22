@@ -63,7 +63,7 @@ Marca cada hito cuando lo termines. Los hitos siguen las sesiones del curso.
 | Semana | Qué hice | Enlace/captura | Dudas para la clase |
 | --- | --- | --- | --- |
 | 1 | Delimitación del problema jurídico, definición de usuarios y alcance del estudio de títulos. | [Parte 1 README](README.md) | Validación del alcance con el docente. |
-| 2 | Redacción del prompt del sistema v1, batería de 5 casos de prueba, compilación del corpus normativo y motor de análisis. | [`corpus/`](corpus/), [`prompts/`](prompts/), [`docs/`](docs/), [`src/`](src/) | Pruebas de integración de OpenRouter con Streamlit. |
+| 2 | Redacción del prompt del sistema v1, batería de 5 casos de prueba, compilación del corpus normativo y motor de análisis. | [`corpus/`](corpus/ley_1579_2012_registro.md), [`prompts/`](prompts/system_prompt_v1.md), [`docs/`](docs/casos-de-prueba.md), [`src/`](src/analyzer.py) | Pruebas de integración de OpenRouter con Streamlit. |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
