@@ -52,18 +52,18 @@ Un nombre corto para tu herramienta y una frase que explique qué hace (la usar�
 
 Marca cada hito cuando lo termines. Los hitos siguen las sesiones del curso.
 
-- [ ] **M0 — Descripción y plan** *(con Sesión 1)*: Partes 1 y 2 de este README completas.
-- [ ] **M1 — Asistente con instrucciones v1** *(Sesión 1–2)*: redactaste las instrucciones (prompt de sistema) de tu asistente y funcionan en una herramienta gratuita de chat.
-- [ ] **M2 — Casos de prueba documentados** *(Sesión 2)*: tienes al menos 5 casos de prueba (donde antes fallaba) con resultados guardados en `docs/casos-de-prueba.md`.
-- [ ] **M3 — Corpus conectado (RAG)** *(Sesión 3)*: tu asistente **cita la fuente** normativa que usa y no inventa. Corpus cargado en `corpus/`.
+- [x] **M0 — Descripción y plan** *(con Sesión 1)*: Partes 1 y 2 de este README completas.
+- [x] **M1 — Asistente con instrucciones v1** *(Sesión 1–2)*: redactadas las instrucciones estructuradas en `prompts/system_prompt_v1.md`.
+- [x] **M2 — Casos de prueba documentados** *(Sesión 2)*: 5 casos de prueba con datos sintéticos (Hábeas Data) guardados en `docs/casos-de-prueba.md`.
+- [x] **M3 — Corpus conectado (RAG)** *(Sesión 3)*: Corpus normativo público cargado y estructurado en `corpus/`.
 - [ ] **M4 — Interfaz web desplegada** *(Sesión 4)*: tu herramienta tiene **URL pública** (ver Parte 4) y tu primer usuario real la probó con evidencia.
 - [ ] **M5 — Análisis crítico y demo** *(Sesión 5)*: Parte 7 completada + presentación de 5 minutos.
 
 ### Bitácora de avance semanal
 | Semana | Qué hice | Enlace/captura | Dudas para la clase |
 | --- | --- | --- | --- |
-| 1 | | | |
-| 2 | | | |
+| 1 | Delimitación del problema jurídico, definición de usuarios y alcance del estudio de títulos. | [Parte 1 README](README.md) | Validación del alcance con el docente. |
+| 2 | Redacción del prompt del sistema v1, batería de 5 casos de prueba, compilación del corpus normativo y motor de análisis. | [`corpus/`](corpus/), [`prompts/`](prompts/), [`docs/`](docs/), [`src/`](src/) | Pruebas de integración de OpenRouter con Streamlit. |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
